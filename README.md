@@ -1,5 +1,3 @@
-First coding project from HTML5 & CSS course by Jonas Schmedtmann
-
 Project Title: Simple Frontend Web Design
 
 Introduction
